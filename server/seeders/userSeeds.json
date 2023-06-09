@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Business One",
+      "email": "biz1@gmail.com",
+      "password": "Password1!"
+    },
+    {
+        "name": "Business Two",
+        "email": "Biz2@gmail.com",
+        "password": "Password1!"
+      },
+    {
+        "name": "Jordan O'Grady",
+        "email": "jordan@gmail.com",
+        "password": "Password1!"
+    },
+    {
+        "name": "Test User",
+        "email": "test@gmail.com",
+        "password": "Password1!"
+      },
+    {
+      "name": "Testing Two",
+      "email": "test2@gmail.com",
+      "password": "Password1!"
+    }
+]

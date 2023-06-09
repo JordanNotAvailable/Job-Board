@@ -1,0 +1,23 @@
+[
+    {
+        "jobTitle": "Software Engineer",
+        "salary": "$80,000",
+        "jobDescription": "Work for us",
+        "users": "Business One",
+        "createdAt": "2023-04-27 09:30:15"
+    },
+    {
+        "jobTitle": "Senior Software Engineer",
+        "salary": "$100,000",
+        "jobDescription": "Work for us",
+        "users": "Business One",
+        "createdAt": "2023-04-27 09:30:15"
+    },
+    {
+        "jobTitle": "Reseptionist",
+        "salary": "$65,000",
+        "jobDescription": "Work for us",
+        "users": "Business Two",
+        "createdAt": "2023-04-27 09:30:15"
+    }
+]
